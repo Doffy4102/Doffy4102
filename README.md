@@ -2,13 +2,20 @@
 <h3 align="center">Software Enginerer | Full Stack Developer | Linux Enthusiast</h3>
 
 <p align="center">
-  <a href="mailto:dineshraja4102@gmail.com">
-  <img src="https://img.shields.io/badge/&logo=gmail&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/dinesh-raja-s-813ab9229/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://linkedin.com/in/dinesh-raja-s-813ab9229"><img src="https://img.shields.io/badge/LinkedIn-%23dineshraja-blue?style=flat-square&logo=linkedin" /></a>
-  <a href="https://github.com/Doffy4102"><img src="https://img.shields.io/badge/GitHub-%23Doffy4102-black?style=flat-square&logo=github" /></a>
-  <a href="https://happiness-index.netlify.app"><img src="https://img.shields.io/badge/Portfolio-%23Happiness--Index-green?style=flat-square&logo=firefox-browser" /></a>
+  <a href="https://github.com/Doffy4102">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://happiness-index.netlify.app/">
+    <img src="https://img.shields.io/badge/-Portfolio-FF7139?style=flat-square&logo=firefox-browser&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:dineshraja4102@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
+
 
 ---
 
