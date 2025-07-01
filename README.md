@@ -11,3 +11,8 @@ Full-stack developer focused on building scalable mobile apps with React Native,
 React Native • Expo • Node.js • MongoDB • Firebase • AWS • Tailwind CSS
 
 ![Doffy4102's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doffy4102&show_icons=true&theme=default)
+
+<p align="center">
+  <img src="https://media.tenor.com/yLbdRtrKBoYAAAAC/berserk-guts.gif" alt="Berserk Guts" width="500"/>
+</p>
+
