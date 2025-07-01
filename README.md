@@ -1,30 +1,46 @@
-<h1> Hi 👋, I'm Dinesh Raja Sivaruthiran</h1>
+<h1 align="center"> Hi 👋, I'm Dinesh Raja Sivaruthiran</h1>
 <h3 align="center">Software Enginerer | Full Stack Developer | Linux Enthusiast</h3>
 
-<p align="center">
-  <img src="https://media.tenor.com/BAoCGlFevAwAAAAi/chika-fujiwara-icons.gif" width="50" alt="Chika Left" />
-<p align="center">
-  <a href="https://www.linkedin.com/in/dinesh-raja-s-813ab9229/">
-    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="LinkedIn" />
-  </a>
-  <a href="https://happiness-index.netlify.app/">
-    <img src="https://img.shields.io/badge/-Portfolio-FF7139?style=flat-square&logo=firefox-browser&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:dineshraja4102@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-<img src="https://media.tenor.com/BAoCGlFevAwAAAAi/chika-fujiwara-icons.gif" width="50" alt="Chika Right" />
-</p>
+<!-- Social Links with Chika GIFs -->
+<div align="center">
+  <table>
+    <tr>
+      <!-- Left Chika GIF -->
+      <td align="left">
+        <img src="https://i.pinimg.com/originals/81/eb/75/81eb75935c867b2ac1ed1eb03d3c642d.gif" width="70" alt="Chika Left" />
+      </td>
+      <!-- Center Social Icons -->
+      <td align="center">
+        <a href="https://www.linkedin.com/in/dinesh-raja-s-813ab9229/">
+          <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="70" />
+        </a>
+        &nbsp;&nbsp;
+        <a href="https://doffy-portfolio.netlify.app/">
+          <img src="https://i.pinimg.com/736x/12/84/44/128444d0677debbc2713ced95d296054.jpg" alt="Portfolio" width="70" />
+        </a>
+        &nbsp;&nbsp;
+        <a href="mailto:dineshraja4102@gmail.com">
+          <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="70" />
+        </a>
+      </td>
+      <!-- Right Chika GIF -->
+      <td align="right">
+        <img src="https://i.pinimg.com/originals/81/eb/75/81eb75935c867b2ac1ed1eb03d3c642d.gif" width="70" alt="Chika Right" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🧠 Deeply curious about Linux, system customization, and minimal desktop environments
-- ⚙️ Love building mobile-first apps that solve real-world problems
-- 🎮 Ex-game dev enthusiast (Unity, Unreal) — still a gamer at heart
+- 🧠 Deeply curious about Linux, system customization, and minimal desktop environments  
+- ⚙️ Love building mobile-first apps that solve real-world problems  
+- 🎮 Ex-game dev enthusiast (Unity, Unreal) — still a gamer at heart  
+- 🧑‍🔧 Currently learning and exploring **Arch Linux**, **Hyprland**, and **DevOps tools** like Docker, CI/CD, and AWS  
+
 
 ---
 
