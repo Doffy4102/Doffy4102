@@ -2,11 +2,10 @@
 <h3 align="center">Software Enginerer | Full Stack Developer | Linux Enthusiast</h3>
 
 <p align="center">
+  <img src="https://media.tenor.com/BAoCGlFevAwAAAAi/chika-fujiwara-icons.gif" width="50" alt="Chika Left" />
+<p align="center">
   <a href="https://www.linkedin.com/in/dinesh-raja-s-813ab9229/">
     <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Doffy4102">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://happiness-index.netlify.app/">
     <img src="https://img.shields.io/badge/-Portfolio-FF7139?style=flat-square&logo=firefox-browser&logoColor=white" alt="Portfolio" />
@@ -14,6 +13,8 @@
   <a href="mailto:dineshraja4102@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
+</p>
+<img src="https://media.tenor.com/BAoCGlFevAwAAAAi/chika-fujiwara-icons.gif" width="50" alt="Chika Right" />
 </p>
 
 
