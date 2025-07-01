@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dinesh Raja Sivaruthiran</h1>
-<h3 align="center">React Native • Full Stack • Cloud Enthusiast</h3>
+<h3 align="center">Software Enginerer | Full Stack Developer | Linux Enthusiast</h3>
 
 <p align="center">
   <a href="mailto:dineshraja4102@gmail.com"><img src="https://img.shields.io/badge/Email-%23dineshraja4102@gmail.com-red?style=flat-square&logo=gmail&logoColor=white" /></a>
