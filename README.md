@@ -2,7 +2,10 @@
 <h3 align="center">Software Enginerer | Full Stack Developer | Linux Enthusiast</h3>
 
 <p align="center">
-  <a href="mailto:dineshraja4102@gmail.com"><img src="[https://img.shields.io/badge/Email-%23dineshraja4102@gmail.com-red?style=flat-square&logo=gmail&logoColor=white](https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000)" /></a>
+  <a href="mailto:dineshraja4102@gmail.com">
+  <img src="https://img.shields.io/badge/Email-dineshraja4102@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
   <a href="https://linkedin.com/in/dinesh-raja-s-813ab9229"><img src="https://img.shields.io/badge/LinkedIn-%23dineshraja-blue?style=flat-square&logo=linkedin" /></a>
   <a href="https://github.com/Doffy4102"><img src="https://img.shields.io/badge/GitHub-%23Doffy4102-black?style=flat-square&logo=github" /></a>
   <a href="https://happiness-index.netlify.app"><img src="https://img.shields.io/badge/Portfolio-%23Happiness--Index-green?style=flat-square&logo=firefox-browser" /></a>
