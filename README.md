@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Dinesh Raja Sivaruthiran</h1>
+![image](https://github.com/user-attachments/assets/fb598c92-3818-4839-aced-f922d4b50cc0)<h1 align="center">Hi 👋, I'm Dinesh Raja Sivaruthiran</h1>
 <h3 align="center">Software Enginerer | Full Stack Developer | Linux Enthusiast</h3>
 
 <p align="center">
-  <a href="mailto:dineshraja4102@gmail.com"><img src="https://img.shields.io/badge/Email-%23dineshraja4102@gmail.com-red?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:dineshraja4102@gmail.com"><img src="[https://img.shields.io/badge/Email-%23dineshraja4102@gmail.com-red?style=flat-square&logo=gmail&logoColor=white](https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000)" /></a>
   <a href="https://linkedin.com/in/dinesh-raja-s-813ab9229"><img src="https://img.shields.io/badge/LinkedIn-%23dineshraja-blue?style=flat-square&logo=linkedin" /></a>
   <a href="https://github.com/Doffy4102"><img src="https://img.shields.io/badge/GitHub-%23Doffy4102-black?style=flat-square&logo=github" /></a>
   <a href="https://happiness-index.netlify.app"><img src="https://img.shields.io/badge/Portfolio-%23Happiness--Index-green?style=flat-square&logo=firefox-browser" /></a>
@@ -12,11 +12,9 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 Currently building: **Eisenhower To-Do App (React Native + Firebase + AWS)**
-- 🛠️ Past Internships: **Efficient Innovation (React Native + PostgreSQL)**, **IEEE Bombay Section (SvelteKit, Tailwind)**
-- 📊 Backend Experience: Node.js, Express, PostgreSQL, MongoDB, Prisma, Firebase
-- ☁️ Cloud & DevOps: AWS, Render, Railway, Git, Docker
-- 📚 Certifications: AWS Cloud Foundations, DevOps SDP, Ethical Hacking
+- 🧠 Deeply curious about Linux, system customization, and minimal desktop environments
+- ⚙️ Love building mobile-first apps that solve real-world problems
+- 🎮 Ex-game dev enthusiast (Unity, Unreal) — still a gamer at heart
 
 ---
 
