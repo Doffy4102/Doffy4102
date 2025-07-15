@@ -1,5 +1,5 @@
-<h1 align="center"> Hi 👋, I'm Dinesh Raja Sivaruthiran</h1>
-<h3 align="center">Software Enginerer | Full Stack Developer | Linux Enthusiast</h3>
+<h1 align="center"> Hi 👋, I'm Dinesh</h1>
+<h3 align="center">Software Enginerer | Full Stack Developer | I use arch btw</h3>
 
 <!-- Social Links with Chika GIFs -->
 <div align="center">
